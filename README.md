@@ -28,3 +28,13 @@ The objective of this project was to develop proficiency in essential programmin
 
 ## Steps
 [Python_Automation .pdf](https://github.com/user-attachments/files/17035359/Python_Automation.pdf)
+<img width="784" alt="Screenshot 1" src="https://github.com/user-attachments/assets/8389e001-1da1-4be2-93ec-e05cec6fa659">
+<img width="1004" alt="Screenshot 2" src="https://github.com/user-attachments/assets/b5376482-233a-4e48-933c-af1880a74e90">
+<img width="984" alt="Screenshot 3" src="https://github.com/user-attachments/assets/69c9cfe6-6d7e-405d-bf79-9b26b2b19f16">
+<img width="1001" alt="Screenshot 4" src="https://github.com/user-attachments/assets/9789f109-b7fe-48b1-871d-3d1a17a24b21">
+<img width="797" alt="Screenshot 5" src="https://github.com/user-attachments/assets/925c8c67-b94d-4ba0-8a47-59420f6e99f4">
+
+
+
+
+
